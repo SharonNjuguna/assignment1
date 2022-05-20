@@ -1,0 +1,18 @@
+.carousel-inner img{
+    width: 100%;
+    margin-top: 1px;
+    height: 30vh;}
+
+
+.col-md-4{
+    width: 15%;
+height: 30vh;
+}
+.h1{
+    text-align: center;
+    color: #1b1b1b;
+}
+.team_section{
+    min-height: 50vh;
+
+}
